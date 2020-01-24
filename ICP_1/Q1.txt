@@ -1,0 +1,8 @@
+Q1. Difference between Python 2 and Python 3
+
+Python 2 worked on ASCII
+Python 3 works on UNICODE
+
+Python 2 uses raw_input which stores int as int float as float and string as string. So, no typecasting required.
+Python 3 has input which takes all the input as string
+
