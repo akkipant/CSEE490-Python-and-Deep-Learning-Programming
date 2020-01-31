@@ -11,3 +11,4 @@ for x in data.split():
 wfile = open('output.txt', 'w')     # Open file in write mode
 for x in countDic:
     wfile.write(x + ' : ' + str(countDic[x]) + '\n')        # Write data to file
+    print(x + ' : ' + str(countDic[x]))      # Print to console
