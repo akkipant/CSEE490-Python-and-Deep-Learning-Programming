@@ -10,7 +10,7 @@ def getLinks(url):
     print(soup.title.text.strip())
     # to find html a tags
     for text in soup.findAll("a"):
-        print(text.get("href"))
+        print(text.get("href"), file=open("output.txt", "a"))
 
 
 if __name__ == '__main__':
