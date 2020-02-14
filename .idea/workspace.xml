@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d04c0001-0477-4800-8796-938547da9558" name="Default Changelist" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP_3/Source/webScraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/ICP_3/Source/webScraping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +34,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.webScraping (1)">
-    <configuration name="empReg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_4\Source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Q2">
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,12 +48,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_3/empReg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learnNumpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_3/learnNumpy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_3/try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webScraping (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_3/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_3/Source/webScraping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4/knn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webScraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_3/webScraping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4/svm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.webScraping (1)" />
-        <item itemvalue="Python.empReg" />
-        <item itemvalue="Python.learnNumpy" />
-        <item itemvalue="Python.webScraping" />
-        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Q2" />
+        <item itemvalue="Python.Q1" />
+        <item itemvalue="Python.Q3" />
+        <item itemvalue="Python.knn" />
+        <item itemvalue="Python.svm" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +177,7 @@
       <workItem from="1580613079263" duration="25000" />
       <workItem from="1581091486230" duration="8976000" />
       <workItem from="1581102264803" duration="107000" />
+      <workItem from="1581654198428" duration="5639000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
@@ -219,26 +224,26 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1579885338288" />
-    <state width="1461" height="255" key="GridCell.Tab.0.bottom" timestamp="1581102370933">
+    <state width="1461" height="255" key="GridCell.Tab.0.bottom" timestamp="1581706366825">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.bottom/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="1461" height="255" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1581102370933" />
-    <state width="1461" height="255" key="GridCell.Tab.0.center" timestamp="1581102370933">
+    <state width="1461" height="255" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1581706366825" />
+    <state width="1461" height="255" key="GridCell.Tab.0.center" timestamp="1581706366825">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.center/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="1461" height="255" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1581102370933" />
-    <state width="1461" height="255" key="GridCell.Tab.0.left" timestamp="1581102370933">
+    <state width="1461" height="255" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1581706366825" />
+    <state width="1461" height="255" key="GridCell.Tab.0.left" timestamp="1581706366825">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.left/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="1461" height="255" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1581102370933" />
-    <state width="1461" height="255" key="GridCell.Tab.0.right" timestamp="1581102370933">
+    <state width="1461" height="255" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1581706366825" />
+    <state width="1461" height="255" key="GridCell.Tab.0.right" timestamp="1581706366825">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.right/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="1461" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1581102370933" />
+    <state width="1461" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1581706366825" />
     <state x="254" y="125" key="SettingsEditor" timestamp="1579885341373">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -250,13 +255,21 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$arithematicOperations.coverage" NAME="arithematicOperations Coverage Results" MODIFIED="1579885571782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Q1.coverage" NAME="Q1 Coverage Results" MODIFIED="1581705112584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$empReg.coverage" NAME="empReg Coverage Results" MODIFIED="1581100572581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_3" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Preprocessing_EDA.coverage" NAME="Preprocessing-EDA Coverage Results" MODIFIED="1581702360769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1581706366816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$knn.coverage" NAME="knn Coverage Results" MODIFIED="1581702700988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Q3.coverage" NAME="Q3 Coverage Results" MODIFIED="1581704881444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$strAlternative.coverage" NAME="strAlternative Coverage Results" MODIFIED="1580493884649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_2/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$replaceOccurence.coverage" NAME="replaceOccurence Coverage Results" MODIFIED="1579889768815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$weightConversion.coverage" NAME="weightConversion Coverage Results" MODIFIED="1580493179149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_2/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$armstrongNumber.coverage" NAME="armstrongNumber Coverage Results" MODIFIED="1579892527234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source/Bonus" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Q3__1_.coverage" NAME="Q3 (1) Coverage Results" MODIFIED="1581702211677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$try.coverage" NAME="try Coverage Results" MODIFIED="1581092625036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_3" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$Q1__1_.coverage" NAME="Q1 (1) Coverage Results" MODIFIED="1581702119834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$learnNumpy.coverage" NAME="learnNumpy Coverage Results" MODIFIED="1581100259624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_3" />
+    <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$svm.coverage" NAME="svm Coverage Results" MODIFIED="1581702488521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_4/Source/Python_Lesson4" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$palindromeString.coverage" NAME="palindromeString Coverage Results" MODIFIED="1579891790318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source/Bonus" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$reverseString.coverage" NAME="reverseString Coverage Results" MODIFIED="1579889785720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source" />
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$webScraping.coverage" NAME="webScraping Coverage Results" MODIFIED="1581097528731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_3" />
