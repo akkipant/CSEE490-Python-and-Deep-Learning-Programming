@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04c0001-0477-4800-8796-938547da9558" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/CSEE490-Python-and-Deep-Learning-Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSEE490-Python-and-Deep-Learning-Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="CSEE490-Python-and-Deep-Learning-Programming" />
@@ -34,18 +50,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP_5/Source" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP_6/Source" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_6\Source" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_5\Source" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_4\Source" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_5\Source" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Q2 (1)">
+  <component name="RunManager" selected="Python.Q1 (2)">
     <configuration name="Q1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,6 +79,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_5/Source/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_6/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_6/Source/Q1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -134,28 +170,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_4/Source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_4/Source/Q3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q1 (2)" />
         <item itemvalue="Python.Q2 (1)" />
         <item itemvalue="Python.Q1 (1)" />
         <item itemvalue="Python.Q2" />
         <item itemvalue="Python.Q1" />
-        <item itemvalue="Python.Q3" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +226,10 @@
       <workItem from="1581654198428" duration="6167000" />
       <workItem from="1582299303367" duration="263000" />
       <workItem from="1582299643787" duration="3903000" />
-      <workItem from="1582303569322" duration="3949000" />
+      <workItem from="1582303569322" duration="3950000" />
+      <workItem from="1582908837276" duration="1124000" />
+      <workItem from="1582909995356" duration="1443000" />
+      <workItem from="1582911466451" duration="4011000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
@@ -259,30 +276,30 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1579885338288" />
-    <state width="732" height="255" key="GridCell.Tab.0.bottom" timestamp="1582307995984">
+    <state width="732" height="255" key="GridCell.Tab.0.bottom" timestamp="1582403989834">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.bottom/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="732" height="255" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1582307995984" />
-    <state width="732" height="255" key="GridCell.Tab.0.center" timestamp="1582307995984">
+    <state width="732" height="255" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
+    <state width="732" height="255" key="GridCell.Tab.0.center" timestamp="1582403989834">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.center/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="732" height="255" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1582307995984" />
-    <state width="732" height="255" key="GridCell.Tab.0.left" timestamp="1582307995984">
+    <state width="732" height="255" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
+    <state width="732" height="255" key="GridCell.Tab.0.left" timestamp="1582403989834">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.left/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="732" height="255" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1582307995984" />
-    <state width="732" height="255" key="GridCell.Tab.0.right" timestamp="1582307995984">
+    <state width="732" height="255" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
+    <state width="732" height="255" key="GridCell.Tab.0.right" timestamp="1582403989834">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.right/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
-    <state width="732" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1582307995984" />
-    <state x="254" y="125" key="SettingsEditor" timestamp="1579885341373">
+    <state width="732" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
+    <state x="254" y="125" key="SettingsEditor" timestamp="1582914116683">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1579885341373" />
+    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1582914116683" />
     <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1579891763555">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
