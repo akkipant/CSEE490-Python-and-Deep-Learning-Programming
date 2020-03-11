@@ -48,26 +48,44 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP_6/Source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab_1/Q6/Source" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\Lab_1\Q6\Source" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_4\Source" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\Lab_1\Q6\Source" />
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_6\Source" />
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_5\Source" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_4\Source" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Q2">
-    <configuration name="Q1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.KMeans">
+    <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q6/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q6/Source/KMeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_6/Source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -88,12 +106,12 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_7/Source Code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_5/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_7/Source Code/Q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_5/Source/Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,20 +142,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regressionMulti" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q4/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q8/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q4/Source/getData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q8/Source/regressionMulti.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,36 +161,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sortDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_7/Python_Lesson7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q2/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_7/Python_Lesson7/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_7/Python_Lesson7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_7/Python_Lesson7/text_classification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q2/Source/sortDict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KMeans" />
+        <item itemvalue="Python.regressionMulti" />
+        <item itemvalue="Python.sortDict" />
         <item itemvalue="Python.Q2" />
-        <item itemvalue="Python.text_classification" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.getData" />
-        <item itemvalue="Python.Q1 (2)" />
+        <item itemvalue="Python.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +220,7 @@
       <workItem from="1582911466451" duration="4011000" />
       <workItem from="1583212757331" duration="6963000" />
       <workItem from="1583516777111" duration="4362000" />
+      <workItem from="1583808919723" duration="15173000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
