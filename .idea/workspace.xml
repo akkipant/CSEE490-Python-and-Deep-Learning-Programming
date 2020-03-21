@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d04c0001-0477-4800-8796-938547da9558" name="Default Changelist" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_1/Python_Lab_Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/Python_Lab_Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_1/~$thon_Lab_Report.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,14 @@
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_5\Source" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.KMeans">
+  <component name="RunManager" selected="Python.Q3">
     <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q6/Source" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -87,12 +92,12 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_6/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_6/Source/Q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,12 +111,31 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ICP_5/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ICP_5/Source/Q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,36 +166,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regressionMulti" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q8/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q8/Source/regressionMulti.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sortDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q2/Source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q2/Source/sortDict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/basicOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KMeans" />
-        <item itemvalue="Python.regressionMulti" />
-        <item itemvalue="Python.sortDict" />
+        <item itemvalue="Python.Q3" />
         <item itemvalue="Python.Q2" />
         <item itemvalue="Python.Q1" />
+        <item itemvalue="Python.basicOP" />
+        <item itemvalue="Python.KMeans" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +226,8 @@
       <workItem from="1583212757331" duration="6963000" />
       <workItem from="1583516777111" duration="4362000" />
       <workItem from="1583808919723" duration="15173000" />
+      <workItem from="1584722993046" duration="2636000" />
+      <workItem from="1584737521840" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
@@ -291,10 +298,10 @@
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.right/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
     <state width="732" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
-    <state x="254" y="125" key="SettingsEditor" timestamp="1582914116683">
+    <state x="254" y="125" key="SettingsEditor" timestamp="1584723174980">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1582914116683" />
+    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1584723174980" />
     <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1579891763555">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
