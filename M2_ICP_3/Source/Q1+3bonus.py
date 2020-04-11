@@ -42,7 +42,8 @@ model.add(layers.Dense(300,input_dim=2000, activation='relu'))
 model.add(layers.Dense(2, activation='sigmoid'))
 model.compile(loss='sparse_categorical_crossentropy',optimizer='adam',metrics=['acc'])
 tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=log_dir, histogram_freq=1)
-history=model.fit(X_train,y_train, epochs=5, verbose=True, validation_data=(X_test,y_test), batch_size=256, callbacks=[tensorboard_callback])
+history=model.fit(X_train,y_train, epochs=5, verbose=True, validation_data=(X_test,y_test)
+                  , batch_size=256, callbacks=[tensorboard_callback])
 
 # bonus1
 # For accuracy values
