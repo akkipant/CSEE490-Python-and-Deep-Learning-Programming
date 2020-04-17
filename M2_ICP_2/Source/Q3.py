@@ -26,7 +26,7 @@ test_data /=255.0
 binTrainLabels = to_categorical(train_labels)
 binTestLabels = to_categorical(test_labels)
 
-#creating network
+#creating network with different activation function and added layer
 model = Sequential()
 model.add(Dense(512, activation='tanh', input_shape=(dimData,)))
 model.add(Dense(512, activation='tanh'))

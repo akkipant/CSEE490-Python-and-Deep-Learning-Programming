@@ -15,7 +15,9 @@ dimData = np.prod(train_images.shape[1:])
 train_data = train_images.reshape(train_images.shape[0],-1)
 test_data = test_images.reshape(test_images.shape[0],-1)
 
-#change the labels from class vector to binary matrix
+# Removed Scaling
+
+# change the labels from class vector to binary matrix
 binTrainLabels = to_categorical(train_labels)
 binTestLabels = to_categorical(test_labels)
 
