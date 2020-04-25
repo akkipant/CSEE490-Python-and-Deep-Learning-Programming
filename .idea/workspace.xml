@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d04c0001-0477-4800-8796-938547da9558" name="Default Changelist" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_1/Python_Lab_Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/Python_Lab_Report.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_1/~$thon_Lab_Report.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="5b686a90-54cb-4451-8a75-87e7556adca8" />
   <component name="ProjectId" id="1Wqgt9xZf93VWolPYElCQnKsku8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -50,35 +49,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab_1/Q6/Source" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/M2_ICP_5/Source" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="CSEE490-Python-and-Deep-Learning-Programming" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="CSEE490-Python-and-Deep-Learning-Programming" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\M2_ICP_5\Source" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\M2_ICP_4\Source\models" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\Lab_1\Q6\Source" />
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_6\Source" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\M2_ICP_5\Source" />
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\Lab_1\Q6\Source" />
       <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_4\Source" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\Lab_1\Q6\Source" />
-      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_6\Source" />
-      <recent name="C:\Users\Akkip\OneDrive\Documents\College\CSEE490-Python-and-Deep-Learning-Programming\ICP_5\Source" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Q3">
-    <configuration name="KMeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Q2">
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab_1/Q6/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_5/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab_1/Q6/Source/KMeans.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_5/Source/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,17 +94,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_4/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_4/Source/Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,31 +121,12 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_5/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/Q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_5/Source/Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,17 +157,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sentimentAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSEE490-Python-and-Deep-Learning-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_1/Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M2_ICP_5/Source" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_1/Source/basicOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/M2_ICP_5/Source/sentimentAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSEE490-Python-and-Deep-Learning-Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Q3" />
         <item itemvalue="Python.Q2" />
         <item itemvalue="Python.Q1" />
-        <item itemvalue="Python.basicOP" />
-        <item itemvalue="Python.KMeans" />
+        <item itemvalue="Python.sentimentAnalysis" />
+        <item itemvalue="Python.Q2 (1)" />
+        <item itemvalue="Python.try" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +241,16 @@
       <workItem from="1583808919723" duration="15173000" />
       <workItem from="1584722993046" duration="2636000" />
       <workItem from="1584737521840" duration="6672000" />
+      <workItem from="1585927761912" duration="1227000" />
+      <workItem from="1585940794595" duration="14358000" />
+      <workItem from="1586541055405" duration="16762000" />
+      <workItem from="1586573132799" duration="1344000" />
+      <workItem from="1586703877426" duration="217000" />
+      <workItem from="1586719370989" duration="1278000" />
+      <workItem from="1586722823742" duration="502000" />
+      <workItem from="1587140043722" duration="9199000" />
+      <workItem from="1587253638259" duration="20000" />
+      <workItem from="1587750716939" duration="10425000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
@@ -261,6 +284,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="503" y="318" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586722740120">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="503" y="318" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1504.963@0.0.1504.963" timestamp="1586722740120" />
     <state x="483" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583520209091">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -269,15 +296,19 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="473" y="109" key="#webScraping/0.0.1504.963@0.0.1504.963" timestamp="1581096764619" />
+    <state x="460" y="235" key="#xdebugger.XInspectDialog" timestamp="1586719493529">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="460" y="235" key="#xdebugger.XInspectDialog/0.0.1504.963@0.0.1504.963" timestamp="1586719493529" />
     <state x="243" y="93" key="CommitChangelistDialog2" timestamp="1580489967540">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="233" y="97" key="CommitChangelistDialog2/0.0.1442.1003@0.0.1442.1003" timestamp="1580164316538" />
     <state x="243" y="93" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1580489967540" />
-    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1579885338288">
+    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1587142322126">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1579885338288" />
+    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1587142322126" />
     <state width="732" height="255" key="GridCell.Tab.0.bottom" timestamp="1582403989834">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -298,14 +329,14 @@
     </state>
     <state width="1399" height="269" key="GridCell.Tab.0.right/0.0.1442.1003@0.0.1442.1003" timestamp="1580165321261" />
     <state width="732" height="255" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1582403989834" />
-    <state x="254" y="125" key="SettingsEditor" timestamp="1584723174980">
+    <state x="254" y="125" key="SettingsEditor" timestamp="1586723260933">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1584723174980" />
-    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1579891763555">
+    <state x="254" y="125" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1586723260933" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1587779631941">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1579891763555" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1587779631941" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$arithematicOperations.coverage" NAME="arithematicOperations Coverage Results" MODIFIED="1579885571782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source" />
