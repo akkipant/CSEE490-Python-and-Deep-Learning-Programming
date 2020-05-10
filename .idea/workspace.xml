@@ -252,7 +252,7 @@
       <workItem from="1587253638259" duration="20000" />
       <workItem from="1587750716939" duration="11078000" />
       <workItem from="1588003236117" duration="68000" />
-      <workItem from="1588350799521" duration="14344000" />
+      <workItem from="1588350799521" duration="17268000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1580163912309</created>
@@ -339,17 +339,6 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1587779631941" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/M2_ICP_6/Source/autoencoder.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSEE490_Python_and_Deep_Learning_Programming$arithematicOperations.coverage" NAME="arithematicOperations Coverage Results" MODIFIED="1579885571782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ICP_1/Source" />
